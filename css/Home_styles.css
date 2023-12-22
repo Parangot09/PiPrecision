@@ -1,0 +1,52 @@
+.main_img{
+    
+    width: 300px;
+    height: 300px;
+   margin-left: 25px;
+}
+
+.containter{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;   
+}
+
+main{
+
+    margin-left: 10px;
+}
+
+.tag_Line{
+    font-family: 'Yusei Magic', sans-serif;
+    color: #8bc944;
+}
+
+.non_main{
+    text-align: center;
+    font-size: 25px;
+}
+
+.non_main p{
+
+    font-family: 'Yusei Magic', sans-serif;
+    color: #425F57;
+}
+
+.main_btn{
+    font-family: 'Yusei Magic', sans-serif;
+    border-color: #425F57;
+    border-style:solid;
+    border-radius: 25px;
+    font-size: 25px;
+    color: #425F57;
+   background-color: #A8E890;
+   padding: 10px;
+}
+
+.main_btn:hover{
+   
+    background-color: #71cc50;
+    box-shadow: 2px 2px 2px 2px grey;
+    transition: 0.5s;
+}
+

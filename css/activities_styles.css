@@ -1,0 +1,51 @@
+
+main{
+    margin-left: 25px;
+}
+
+main h1{
+    font-family: 'Yusei Magic', sans-serif;
+    color: #8bc944;
+}
+
+.containter{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.cln_1{
+
+    width: 200px;
+    height: 200px;
+    border: 2px solid #425F57;
+    border-radius: 25px;
+    margin-left: 20px;
+}
+
+.cln_1:hover{
+
+    box-shadow: 5px 5px 5px 5px gray;
+    transition: 0.4s;
+    height: 210px;
+    width: 210px;
+}
+
+.item1{
+    width: 300px;
+    height: 300px;
+}
+
+main label{
+
+    font-family: 'Yusei Magic', sans-serif;
+    color: #425F57;
+}
+
+
+.item2{
+    width: 300px;
+    height: 300px;
+}
+
+

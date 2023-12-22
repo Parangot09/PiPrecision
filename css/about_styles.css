@@ -1,0 +1,25 @@
+main{
+
+    margin-left: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+    color: #8bc944;
+}
+
+main label{
+    color: #425F57;
+    text-align: justify;
+}
+
+.containter{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   
+}
+
+main img{
+    
+    width: 300px;
+    height: 300px;
+   margin-left: 25px;
+}

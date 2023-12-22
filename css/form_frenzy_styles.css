@@ -1,0 +1,95 @@
+
+main{
+
+    margin-left: 25px;
+}
+
+main h1{
+
+    font-family: 'Yusei Magic', sans-serif;
+    color: #425F57;
+}
+
+.container{
+
+    display: flex;
+
+}
+
+.item1{
+
+    width: 200px;
+    height: 200px;
+  
+}
+
+.item1:hover{
+
+
+}
+
+dl{
+    font-family: 'Yusei Magic', sans-serif;
+    color: #283d37;
+    font-size: 18px;
+}
+
+.pizza{
+
+    width: 200px;
+    height: 200px;
+}
+
+.dia{
+    color: #DF2935;
+}
+
+.rad{
+    color: #63458A;
+}
+
+.quiz{
+    font-family: 'Righteous', sans-serif;
+    color: #DB5461;
+}
+
+main p{
+
+    font-family: 'Yusei Magic', sans-serif;
+    color: #283d37;
+    font-size: 18px;
+
+}
+
+main label{
+    font-family: 'Yusei Magic', sans-serif;
+    color: #283d37;
+    font-size: 18px;
+}
+
+button{
+
+    background-color: #71F79F;
+    color: #283d37;
+    font-size: 18px;
+    border-radius: 15px;
+    border: solid 1px rgb(3, 23, 80);
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+button:hover{
+
+    background-color: #41b168;
+}
+
+main h2{
+    font-family: 'Yusei Magic', sans-serif;
+    color: #283d37;
+    
+}
+
+.box{
+    padding: 25px;
+    text-align: justify;
+}
