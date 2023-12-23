@@ -24,6 +24,7 @@ main{
 .non_main{
     text-align: center;
     font-size: 25px;
+    margin-bottom: 25px;
 }
 
 .non_main p{
