@@ -51,3 +51,53 @@ main{
     transition: 0.5s;
 }
 
+
+.headings{
+
+    margin-left: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+    color: #425F57;
+}
+
+.letters{
+
+    color: #425F57;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.container{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.study_img{
+
+    width: 250px;
+    height: 250px;
+}
+
+.content{
+
+   width: 800px;
+   height: 200px;
+   text-align: center;
+   margin-top: 80px;
+   margin-left: -10px;
+}
+
+
+.new_item1{
+
+    margin-left: 30px;
+
+}
+
+
+
+
+
+
